@@ -1,0 +1,37 @@
+{
+  "title": "Uma Musume: Cinderella Gray",
+  "description": "Uma Musume: Cinderella Gray is a spin-off of the Uma Musume project by Cygames. It follows Oguri Cap during her time at Kasamatsu Training Center Academy and her journey to becoming a legendary horse girl. This release compiles three special oneshots (Snow White, Thumbelina and Walpurgisnacht) featured together in issue 16/2026 of Weekly Young Jump. These chapters have not been included in any volume, as they were originally published exclusively in physical magazines. An additional oneshot (Lingering Ashes) published in Ultra Jump (October/2025 issue) is also included.",
+  "artist": "Kuzumi Taiyou",
+  "author": "Itou Junnousuke, Sugiura Masafumi",
+  "cover": "https://cdn.imgchest.com/files/e0580b2c9fc6.jpg",
+  "chapters": {
+    "001": {
+      "title": "Lingering Ashes",
+      "last_updated": "1774023749",
+      "groups": {
+        "Team Enif": "/proxy/api/imgchest/chapter/ej7m6qa8a4d"
+      }
+    },
+    "002": {
+      "title": "Snow White",
+      "last_updated": "1774023735",
+      "groups": {
+        "Team Enif": "/proxy/api/imgchest/chapter/ljyq63a2x42"
+      }
+    },
+    "003": {
+      "title": "Thumbelina",
+      "last_updated": "1774023734",
+      "groups": {
+        "Team Enif": "/proxy/api/imgchest/chapter/wl7l6jao37x"
+      }
+    },
+    "004": {
+      "title": "Walpurgisnacht",
+      "last_updated": "1774023734",
+      "groups": {
+        "Team Enif": "/proxy/api/imgchest/chapter/vj4j62e89y8"
+      }
+    }
+  }
+}
